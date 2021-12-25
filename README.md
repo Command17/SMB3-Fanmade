@@ -6,3 +6,5 @@ SMB3 Fanmade(SMBF3) is a fanmade game made with Hello Mario Engine(https://hello
 ![DownloadSMBF3Logo](https://user-images.githubusercontent.com/84639718/146963429-7b108c3e-f840-43c6-8b85-1c26b40bb62e.png)
 
 s21w19a: https://github.com/Command17/SMB3-Fanmade/releases/tag/s21w19a
+
+1.0.0-alpha-1: Coming soon
